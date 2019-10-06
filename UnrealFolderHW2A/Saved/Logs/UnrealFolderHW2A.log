@@ -6590,3 +6590,447 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.06-18.52.49:205][406]LogSavePackage: Moving '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Saved/ThirdPersonExampleMap41F6DA0D4B465366E011B3A2F07D563A.tmp' to '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.10.06-18.52.49:392][406]LogSavePackage: Moving '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Saved/ThirdPersonExampleMap_BuiltData15B6A4514431E10F9A63E988903ADA2E.tmp' to '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2019.10.06-18.52.55:864][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-18.54.26:989][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: request failed, libcurl error: 0 (No error)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.167.86) port 443 (#21))
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 7 (Closing connection 21)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: 000001F51BA9B740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-18.56.56:027][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.242.143.72) port 443 (#23))
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 7 (Closing connection 23)
+[2019.10.06-19.02.56:024][375]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.02.56:041][376]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 1 (Re-using existing connection! (#25) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.94.140.213) port 443 (#25))
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 7 (Closing connection 25)
+[2019.10.06-19.08.56:005][973]LogHttp: Warning: 000001F51BA99080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.08.56:022][974]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.204.64) port 443 (#27))
+[2019.10.06-19.14.55:986][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.14.55:987][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.14.55:987][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.14.55:987][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.14.55:987][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 7 (Closing connection 27)
+[2019.10.06-19.14.55:987][571]LogHttp: Warning: 000001F51BA98B80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.14.56:003][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.24.56:010][571]LogHttp: Warning: 000001F51BA98180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.24.56:010][571]LogHttp: Warning: 000001F51BA98180: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.24.56:010][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.24.56:010][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.134.23) port 443 (#30))
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 7 (Closing connection 30)
+[2019.10.06-19.24.56:011][571]LogHttp: Warning: 000001F51BA98180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.24.56:027][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 1 (Re-using existing connection! (#32) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.49.65) port 443 (#32))
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 7 (Closing connection 32)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: 000001F51BA99300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.32.56:013][370]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.38.55:994][968]LogHttp: Warning: 000001F51BA9B4C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.38.55:994][968]LogHttp: Warning: 000001F51BA9B4C0: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.38.55:994][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.38.55:994][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.38.55:994][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.19.78.72) port 443 (#34))
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 7 (Closing connection 34)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: 000001F51BA9B4C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.38.55:995][968]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.159.232) port 443 (#36))
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 7 (Closing connection 36)
+[2019.10.06-19.46.55:997][767]LogHttp: Warning: 000001F526F5CE00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.46.56:013][768]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 1 (Re-using existing connection! (#38) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.53.73) port 443 (#38))
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 7 (Closing connection 38)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: 000001F526F5D940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.53.55:996][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: request failed, libcurl error: 0 (No error)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 1 (Re-using existing connection! (#40) with host datarouter.ol.epicgames.com)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.61.121) port 443 (#40))
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 7 (Closing connection 40)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: 000001F526F5C7C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-19.59.56:010][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-20.06.55:993][764]LogHttp: Warning: 000001F526F5EC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: request failed, libcurl error: 0 (No error)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 1 (Re-using existing connection! (#42) with host datarouter.ol.epicgames.com)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.42.24) port 443 (#42))
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 7 (Closing connection 42)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: 000001F526F5EC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-20.06.55:994][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: request failed, libcurl error: 0 (No error)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f4e7c17f70 [can pipeline])
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 1 (Re-using existing connection! (#44) with host datarouter.ol.epicgames.com)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.167.86) port 443 (#44))
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 7 (Closing connection 44)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: 000001F526F5E0C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.06-20.14.55:979][562]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5EB2FB89-4DA7-0241-FA0A-F593B3E6332E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b21f2e0143d5e33d405858a9345f7a5a%7C6b127ef266214ff1a3b45d021b38d460%7Cf5376c0f-dfb9-4778-9abd-7e076c23018a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.06-20.17.16:298][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.17.16:425][987]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Wall.Wall
+[2019.10.06-20.17.16:427][987]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2019.10.06-20.17.16:502][987]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2019.10.06-20.17.16:521][987]LogMaterial: Display: Missing cached shader map for material Wall, compiling. 
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2019.10.06-20.17.16:544][987]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2019.10.06-20.17.16:549][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.06-20.17.16:558][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.06-20.17.16:566][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.06-20.17.17:122][ 13]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2019.10.06-20.17.17:141][ 14]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2019.10.06-20.17.17:141][ 14]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2019.10.06-20.17.17:199][ 17]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2019.10.06-20.17.17:270][ 21]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2019.10.06-20.17.17:289][ 22]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2019.10.06-20.17.17:308][ 23]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2019.10.06-20.17.17:345][ 25]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2019.10.06-20.17.17:462][ 31]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2019.10.06-20.17.17:799][ 46]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2019.10.06-20.17.17:880][ 50]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2019.10.06-20.17.18:098][ 62]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2019.10.06-20.17.18:133][ 64]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2019.10.06-20.17.18:151][ 65]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2019.10.06-20.17.18:151][ 65]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2019.10.06-20.17.18:164][ 66]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2019.10.06-20.17.18:265][ 72]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2019.10.06-20.17.18:265][ 72]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2019.10.06-20.17.18:590][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2019.10.06-20.17.18:609][ 89]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2019.10.06-20.17.18:645][ 91]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2019.10.06-20.17.18:967][108]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2019.10.06-20.17.18:985][109]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2019.10.06-20.17.19:005][110]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2019.10.06-20.17.19:062][113]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.10.06-20.17.19:099][115]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2019.10.06-20.17.19:155][118]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2019.10.06-20.17.19:291][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2019.10.06-20.17.19:372][129]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2019.10.06-20.17.19:411][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Base pass shader: 129 instructions
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.06-20.17.19:439][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.06-20.17.19:536][137]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2019.10.06-20.17.19:556][138]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2019.10.06-20.17.19:594][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.10.06-20.17.19:613][141]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.10.06-20.18.07:724][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.18.27:011][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.18.32:086][912]LogSlate: Window 'Message' being destroyed
+[2019.10.06-20.18.32:091][912]LogSlate: Window 'Wall' being destroyed
+[2019.10.06-20.18.32:092][912]LogSlate: Window 'Wall' being destroyed
+[2019.10.06-20.18.32:119][912]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.18.35:808][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.18.35:892][138]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.06-20.18.35:902][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.18.35:902][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.18.35:902][138]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:18:35 AM)
+[2019.10.06-20.18.35:902][138]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.18.35:912][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009399s)
+[2019.10.06-20.18.35:912][138]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.18.35:913][138]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.10.06-20.18.35:913][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010460s)
+[2019.10.06-20.18.35:939][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.06-20.18.35:944][138]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.18.35:994][138]LogInit: FAudioDevice initialized.
+[2019.10.06-20.18.36:004][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.18.36:006][138]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.18.36
+[2019.10.06-20.18.36:006][138]LogWorld: Bringing up level for play took: 0.001220
+[2019.10.06-20.18.36:006][138]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.06-20.18.36:008][138]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.005
+[2019.10.06-20.18.36:008][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.19.11:554][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.19.11:554][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.19.11:554][270]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.19.11:554][270]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.19.11:565][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.19.11:565][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.19.11:597][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.19.11:600][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.06-20.19.11:653][273]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.06-20.20.42:524][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.23.02:796][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.23.32:909][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.23.39:033][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.23.39:033][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.23.39:034][836]PIE: New page: SIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:23:39 AM)
+[2019.10.06-20.23.39:034][836]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.23.39:043][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009649s)
+[2019.10.06-20.23.39:044][836]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.23.39:044][836]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2019.10.06-20.23.39:044][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010735s)
+[2019.10.06-20.23.39:071][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.06-20.23.39:076][836]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.23.39:128][836]LogInit: FAudioDevice initialized.
+[2019.10.06-20.23.39:129][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.23.39:133][836]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.23.39:135][836]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.23.39
+[2019.10.06-20.23.39:136][836]LogWorld: Bringing up level for play took: 0.001259
+[2019.10.06-20.23.39:136][836]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.06-20.23.39:165][836]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.838
+[2019.10.06-20.23.39:232][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.23.43:608][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.23.43:708][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.23.43:709][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.23.43:709][100]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.23.43:710][100]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.23.43:717][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.23.43:717][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.23.43:749][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.23.43:751][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.06-20.23.43:819][104]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.06-20.23.47:442][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.23.48:489][384]MapCheck: New page: Map Check
+[2019.10.06-20.23.48:499][384]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.06-20.23.48:510][384]LightingResults: New page: Lighting Build - Oct 6, 2019, 6:23:48 AM
+[2019.10.06-20.23.48:522][384]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.06-20.23.48:525][384]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.06-20.23.48:525][384]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.06-20.23.48:526][384]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.06-20.23.48:526][384]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12776
+[2019.10.06-20.23.53:052][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.06-20.23.53:052][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.06-20.23.53:052][384]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.06-20.23.53:052][384]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.06-20.23.53:052][384]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.06-20.23.53:168][384]LogEditorBuildUtils: Build time 0:04
+[2019.10.06-20.23.53:203][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.06-20.23.55:414][499]Job is a success!
+[2019.10.06-20.23.55:455][500]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.06-20.23.55:484][500]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.10.06-20.23.55:484][500]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.06-20.23.55:484][500]LogVolumetricLightmapImport:      BrickData 255x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.10.06-20.23.55:484][500]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.06-20.23.55:484][500]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2019.10.06-20.23.55:485][500]LogVolumetricLightmapImport:          1: 7.8% covering 6.3% of volume
+[2019.10.06-20.23.55:485][500]LogVolumetricLightmapImport:          2: 90.2% covering 1.1% of volume
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.10.06-20.23.55:703][500]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.10.06-20.23.55:823][500]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.10.06-20.23.55:823][500]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2019.10.06-20.23.55:837][500]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 14 meshes in 2 LightmapResourceClusters (7.0 Meshes per cluster).
+[2019.10.06-20.23.55:865][500]Lightmass on DESKTOP-4HKBDTL: 1.71 sec total, 165 ms importing, 47 ms setup, 199 ms photons, 1.28 sec processing, 0 ms extra exporting [14/14 mappings]. Threads: 14.1 sec total, 3.20 sec processing.
+[2019.10.06-20.23.55:868][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.06-20.23.55:875][500]LogStaticLightingSystem: Illumination: 7.35 sec (173 ms encoding lightmaps, 143 ms encoding shadowmaps)
+[2019.10.06-20.23.55:875][500]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.06-20.23.55:876][500]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.10.06-20.23.56:057][500]DumpUnbuiltLightIteractions
+[2019.10.06-20.23.56:057][500]Lights with unbuilt interactions: 0
+[2019.10.06-20.23.56:057][500]
+[2019.10.06-20.23.56:057][500]Primitives with unbuilt interactions: 0
+[2019.10.06-20.23.56:062][500]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.06-20.23.56:096][501]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.06-20.23.56:096][501]MapCheck: New page: ThirdPersonExampleMap - Oct 6, 2019, 6:23:56 AM
+[2019.10.06-20.23.56:096][501]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.418ms to complete.
+[2019.10.06-20.24.26:939][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.24.34:437][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.06-20.24.36:503][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.24.38:274][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.24.40:679][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.24.44:156][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.10.06-20.24.45:154][438]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.06-20.24.53:882][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.24.53:979][968]LogTemp: Repeating last play command: Simulate
+[2019.10.06-20.24.53:997][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.24.53:997][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.24.53:997][968]PIE: New page: SIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:24:53 AM)
+[2019.10.06-20.24.53:997][968]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.24.54:011][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013126s)
+[2019.10.06-20.24.54:012][968]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.24.54:012][968]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2019.10.06-20.24.54:012][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014495s)
+[2019.10.06-20.24.54:038][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.06-20.24.54:043][968]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.24.54:093][968]LogInit: FAudioDevice initialized.
+[2019.10.06-20.24.54:103][968]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.24.54:105][968]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.24.54
+[2019.10.06-20.24.54:105][968]LogWorld: Bringing up level for play took: 0.001194
+[2019.10.06-20.24.54:106][968]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.06-20.24.54:107][968]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.105
+[2019.10.06-20.24.54:120][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.24.56:984][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.06-20.24.58:005][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.24.59:258][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.24.59:258][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.24.59:258][275]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.24.59:259][275]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.24.59:269][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.24.59:269][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.24.59:300][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.24.59:302][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.06-20.24.59:366][279]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.06-20.25.01:630][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.25.01:630][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.25.01:630][414]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:25:01 AM)
+[2019.10.06-20.25.01:630][414]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.25.01:639][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008939s)
+[2019.10.06-20.25.01:640][414]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.25.01:640][414]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.10.06-20.25.01:640][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009950s)
+[2019.10.06-20.25.01:665][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.06-20.25.01:669][414]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.25.01:724][414]LogInit: FAudioDevice initialized.
+[2019.10.06-20.25.01:732][414]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.25.01:734][414]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.25.01
+[2019.10.06-20.25.01:734][414]LogWorld: Bringing up level for play took: 0.001182
+[2019.10.06-20.25.01:735][414]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.06-20.25.01:736][414]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.266
+[2019.10.06-20.25.01:736][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.25.08:541][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.25.08:541][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.25.08:541][821]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.25.08:541][821]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.25.08:554][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.25.08:554][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.25.08:586][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.25.08:589][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.06-20.25.08:654][825]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.06-20.25.10:478][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.28.38:234][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.28.39:778][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.28.58:804][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.06-20.29.04:162][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.29.04:163][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.29.04:163][963]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:29:04 AM)
+[2019.10.06-20.29.04:163][963]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.29.04:173][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009411s)
+[2019.10.06-20.29.04:174][963]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.29.04:174][963]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2019.10.06-20.29.04:174][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010558s)
+[2019.10.06-20.29.04:202][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.06-20.29.04:207][963]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.29.04:257][963]LogInit: FAudioDevice initialized.
+[2019.10.06-20.29.04:265][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.29.04:265][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.29.04:267][963]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.29.04
+[2019.10.06-20.29.04:267][963]LogWorld: Bringing up level for play took: 0.001922
+[2019.10.06-20.29.04:268][963]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.06-20.29.04:271][963]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.269
+[2019.10.06-20.29.04:272][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.29.04:310][964]LogRenderer: Reallocating scene render targets to support 1280x716 Format 10 NumSamples 1 (Frame:1).
+[2019.10.06-20.29.14:442][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.29.14:442][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.29.14:442][478]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.29.14:453][478]LogSlate: Window 'UnrealFolderHW2A Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.06-20.29.14:459][478]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.29.14:463][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.29.14:464][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.29.14:496][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.06-20.29.14:550][481]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.06-20.29.18:584][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.10.06-20.29.19:725][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-20.29.19:791][794]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.06-20.29.19:802][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.29.19:802][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-20.29.19:802][794]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 6, 2019, 6:29:19 AM)
+[2019.10.06-20.29.19:802][794]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.29.19:810][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008479s)
+[2019.10.06-20.29.19:811][794]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.06-20.29.19:811][794]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.10.06-20.29.19:811][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009520s)
+[2019.10.06-20.29.19:836][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.06-20.29.19:841][794]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.06-20.29.19:892][794]LogInit: FAudioDevice initialized.
+[2019.10.06-20.29.19:900][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.29.19:900][794]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.06-20.29.19:901][794]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.10.06-13.29.19
+[2019.10.06-20.29.19:902][794]LogWorld: Bringing up level for play took: 0.001388
+[2019.10.06-20.29.19:902][794]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.10.06-20.29.19:905][794]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.098
+[2019.10.06-20.29.19:906][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.30.02:299][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.30.02:299][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-20.30.02:299][335]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.06-20.30.02:310][335]LogSlate: Window 'UnrealFolderHW2A Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.06-20.30.02:315][335]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-20.30.02:322][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-20.30.02:323][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.06-20.30.02:356][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.06-20.30.02:399][337]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.06-20.31.29:176][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.06-20.31.29:176][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2019.10.06-20.33.33:141][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.06-20.33.33:254][397]LogSavePackage: Moving '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Saved/ThirdPersonExampleMapF13693D648337C1884B785BBD707F44F.tmp' to '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.10.06-20.33.33:339][397]LogSavePackage: Moving '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Saved/ThirdPersonExampleMap_BuiltData9F4741E04F1B28990E486E8196CD8E82.tmp' to '../../../../../../Users/Jacob/Documents/UCSC/CMPM164/Homework2/CMPM164_Homework2A/UnrealFolderHW2A/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
